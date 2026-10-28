@@ -80,7 +80,7 @@
     if (!link) return;
     const official = {
       'https://www.instagram.com/accabet.official/': 'instagram',
-      'https://www.facebook.com/profile.php?id=1327395387132747': 'facebook',
+      'https://www.facebook.com/people/AccaBet/61596018952152/': 'facebook',
       'https://www.youtube.com/@AccaBetOfficial': 'youtube'
     };
     const platform = official[link.href];
